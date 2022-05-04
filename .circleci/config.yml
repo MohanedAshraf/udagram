@@ -39,6 +39,10 @@ jobs:
 workflows:
   build-deploy:
     jobs:
+      steps:
+      - checkout
+      - node/install:
+          node-version: '16.13'
       - build:
           filters:
             branches:
