@@ -4,7 +4,6 @@ orbs:
   node: circleci/node@4.7
   aws-cli: circleci/aws-cli@1.3.1
   eb: circleci/aws-elastic-beanstalk@2.0.1
-
 # define a job to be invoked later in a workflow.
 jobs:
   build:
