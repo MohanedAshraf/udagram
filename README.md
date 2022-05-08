@@ -32,11 +32,11 @@ See additional documentation in the documentation folder.
 
 #### Pipline Process
 
-![Pipeline Schema](./documentation/diagrams/Pipline_Process.JPG)
+![Pipeline Schema](./documentation/diagrams/Pipline_Process.jpg)
 
 ### Architecture
 
-![Architecture](./documentation/diagrams/Architecture_Diagram.JPG)
+![Architecture](./documentation/diagrams/Architecture_Diagram.jpg)
 
 ## Built With
 
