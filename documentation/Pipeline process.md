@@ -24,4 +24,4 @@ After the developer pushes the code to the master branch, the pipeline starts.
 8. Deploy frontend to S3.
 9. Deploy backend to Elastic Beanstalk.
 
-[![](https://github.com/MohanedAshraf/udagram/blob/master/documentation/diagrams/Pipline%20Process.jpg)](https://github.com/MohanedAshraf/udagram/blob/master/documentation/diagrams/Pipline%20Process.jpg)<br>
+[![](https://github.com/MohanedAshraf/udagram/blob/master/documentation/diagrams/Pipline_Process.jpg)](https://github.com/MohanedAshraf/udagram/blob/master/documentation/diagrams/Pipline_Process.jpg)<br>
