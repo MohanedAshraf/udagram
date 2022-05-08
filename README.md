@@ -12,31 +12,31 @@ See additional documentation in the documentation folder.
 
 ### Elastic Beanstalk Environment
 
-![Elastic Beanstalk Environment](./documentation/AWS_EB/2.jpg)
+![Elastic Beanstalk Environment](./documentation/AWS_EB/2.JPG)
 
 ### FrontEnd S3 Bucket
 
-![FrontEnd S3 Bucket](./documentation/AWS_S3/1.jpg)
+![FrontEnd S3 Bucket](./documentation/AWS_S3/1.JPG)
 
 ### PostgreSQL RDS database
 
-![PostgreSQL RDS database](./documentation/AWS_RDS/1.jpg)
+![PostgreSQL RDS database](./documentation/AWS_RDS/1.JPG)
 
 ### CircleCI Pipeline
 
-![CircleCI Pipeline](./documentation/CircleCI/1.jpg)
+![CircleCI Pipeline](./documentation/CircleCI/1.JPG)
 
 #### Secrets
 
-![CircleCI Pipeline environment variables](./documentation/CircleCI/2.jpg)
+![CircleCI Pipeline environment variables](./documentation/CircleCI/2.JPG)
 
 #### Pipline Process
 
-![Pipeline Schema](./documentation/diagrams/Pipline_Process.jpg)
+![Pipeline Schema](./documentation/diagrams/Pipline_Process.JPG)
 
 ### Architecture
 
-![Architecture](./documentation/diagrams/Architecture_Diagram.jpg)
+![Architecture](./documentation/diagrams/Architecture_Diagram.JPG)
 
 ## Built With
 
